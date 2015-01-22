@@ -6,656 +6,406 @@ Direct3D:
     Vendor:   ATI
     VRAM:     1006 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\flyinggame_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\flyinggame_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\flyinggame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\flyinggame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\flyinggame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\flyinggame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.048 seconds
+Platform assembly: C:\Users\Alexandra\Documents\Game\flyinggame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Alexandra\Documents\Game\flyinggame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexandra\Documents\Game\flyinggame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Alexandra\Documents\Game\flyinggame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexandra\Documents\Game\flyinggame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Alexandra\Documents\Game\flyinggame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\flyinggame_Data\Managed\System.Core.dll (this message is harmless)
-UnloadTime: 0.294646 ms
-System memory in use before: 9.6 MB.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 9.5 MB.
-
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 118.
-Total: 0.594367 ms (FindLiveObjects: 0.004776 ms CreateObjectMapping: 0.005373 ms MarkObjects: 0.044480 ms  DeleteObjects: 0.014329 ms)
-
-UnloadTime: 0.367486 ms
-System memory in use before: 9.6 MB.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 9.6 MB.
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 197.
-Total: 0.548095 ms (FindLiveObjects: 0.007164 ms CreateObjectMapping: 0.005970 ms MarkObjects: 0.046271 ms  DeleteObjects: 0.009254 ms)
-
-UnloadTime: 0.414952 ms
-System memory in use before: 10.0 MB.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 10.0 MB.
-
-Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 122.
-Total: 0.634967 ms (FindLiveObjects: 0.005672 ms CreateObjectMapping: 0.005672 ms MarkObjects: 0.048958 ms  DeleteObjects: 0.041793 ms)
-
-UnloadTime: 0.220014 ms
-System memory in use before: 10.0 MB.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 10.0 MB.
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 122.
-Total: 0.543020 ms (FindLiveObjects: 0.005672 ms CreateObjectMapping: 0.005373 ms MarkObjects: 0.043883 ms  DeleteObjects: 0.003283 ms)
-
-UnloadTime: 0.369875 ms
-System memory in use before: 10.4 MB.
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 10.3 MB.
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 296.
-Total: 0.596457 ms (FindLiveObjects: 0.009254 ms CreateObjectMapping: 0.006567 ms MarkObjects: 0.057914 ms  DeleteObjects: 0.009254 ms)
-
-Contact: box
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:152)
- 
-(Filename: C Line: 0)
-
-Tag: box
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:153)
- 
-(Filename: C Line: 0)
-
-Name: Box
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:154)
- 
-(Filename: C Line: 0)
-
-Name: Box
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:176)
- 
-(Filename: C Line: 0)
-
-fiende?
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:177)
- 
-(Filename: C Line: 0)
-
-Contact: Untagged
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:152)
- 
-(Filename: C Line: 0)
-
-Tag: Untagged
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:153)
- 
-(Filename: C Line: 0)
-
-Name: kryss
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:154)
- 
-(Filename: C Line: 0)
-
-Fienden död
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:160)
- 
-(Filename: C Line: 0)
-
-Contact: Untagged
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:152)
- 
-(Filename: C Line: 0)
-
-Tag: Untagged
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:153)
- 
-(Filename: C Line: 0)
-
-Name: kryss
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:154)
- 
-(Filename: C Line: 0)
-
-Fienden död
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:160)
- 
-(Filename: C Line: 0)
-
-Contact: Untagged
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:152)
- 
-(Filename: C Line: 0)
-
-Tag: Untagged
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:153)
- 
-(Filename: C Line: 0)
-
-Name: kryss
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:154)
- 
-(Filename: C Line: 0)
-
-Fienden död
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:160)
- 
-(Filename: C Line: 0)
-
-Contact: Untagged
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:152)
- 
-(Filename: C Line: 0)
-
-Tag: Untagged
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:153)
- 
-(Filename: C Line: 0)
-
-Name: kryss
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:154)
- 
-(Filename: C Line: 0)
-
-Fienden död
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:160)
- 
-(Filename: C Line: 0)
-
-UnloadTime: 0.629295 ms
-System memory in use before: 10.4 MB.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 10.1 MB.
-
-Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 122.
-Total: 0.715868 ms (FindLiveObjects: 0.004776 ms CreateObjectMapping: 0.005970 ms MarkObjects: 0.069855 ms  DeleteObjects: 0.151054 ms)
-
-UnloadTime: 0.242702 ms
-System memory in use before: 10.1 MB.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 10.1 MB.
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 122.
-Total: 0.566306 ms (FindLiveObjects: 0.005074 ms CreateObjectMapping: 0.005970 ms MarkObjects: 0.051943 ms  DeleteObjects: 0.003283 ms)
-
-Platform assembly: C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\flyinggame_Data\Managed\System.dll (this message is harmless)
-UnloadTime: 0.230761 ms
-System memory in use before: 10.7 MB.
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 10.5 MB.
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 426.
-Total: 0.694971 ms (FindLiveObjects: 0.014030 ms CreateObjectMapping: 0.007164 ms MarkObjects: 0.088364 ms  DeleteObjects: 0.012239 ms)
-
-Contact: Untagged
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:152)
- 
-(Filename: C Line: 0)
-
-Tag: Untagged
-UnityEngine.Debug:Internal_Log(Int32, String, Object)
-UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:153)
- 
-(Filename: C Line: 0)
-
-Name: kryss
+Platform assembly: C:\Users\Alexandra\Documents\Game\flyinggame_Data\Managed\System.Core.dll (this message is harmless)
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:154)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Name: kryss
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:176)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-fiende?
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:177)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Contact: bluewall
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:152)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Tag: bluewall
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:153)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Name: bluewall
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:154)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Bluewall
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:171)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Contact: Untagged
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:152)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Tag: Untagged
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:153)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Name: kryss
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:154)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Fienden död
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:160)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Contact: box
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:152)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Tag: box
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:153)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Name: Box
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:154)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Name: Box
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:176)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-fiende?
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:177)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Contact: Untagged
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:152)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Tag: Untagged
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:153)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Name: kryss
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:154)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Fienden död
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:160)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Contact: box
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:152)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Tag: box
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:153)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Name: Box
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:154)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Name: Box
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:176)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-fiende?
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:177)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
-
-UnloadTime: 2.519867 ms
-System memory in use before: 10.5 MB.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 10.5 MB.
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 426.
-Total: 0.634668 ms (FindLiveObjects: 0.012836 ms CreateObjectMapping: 0.008955 ms MarkObjects: 0.098513 ms  DeleteObjects: 0.020299 ms)
-
-Contact: box
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:152)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Tag: box
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:153)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Name: Box
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:154)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Name: Box
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:176)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-fiende?
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:177)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Contact: box
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:152)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Tag: box
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:153)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Name: Box
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:154)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Name: Box
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:176)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-fiende?
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:177)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Contact: bluewall
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:152)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Tag: bluewall
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:153)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Name: bluewall
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:154)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Name: bluewall
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:176)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-fiende?
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:OnCollisionEnter2D(Collision2D) (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:177)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
-
-UnloadTime: 0.860355 ms
-System memory in use before: 10.5 MB.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 10.5 MB.
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 426.
-Total: 0.639445 ms (FindLiveObjects: 0.012538 ms CreateObjectMapping: 0.007761 ms MarkObjects: 0.096125 ms  DeleteObjects: 0.020001 ms)
-
-Ball 2: 1
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:94)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Ball 2: 2
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:94)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Cam 2: 3
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:101)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Main Camera (CameraScript)
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:102)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Cam 2: 4
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:101)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Main Camera (UnityEngine.UI.LayoutElement)
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:102)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Cam 2: 5
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:101)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Main Camera (UnityEngine.UI.AspectRatioFitter)
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:102)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Ball 2: 1
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:94)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Ball 2: 2
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:94)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Cam 2: 3
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:101)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Main Camera (CameraScript)
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:102)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Cam 2: 4
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:101)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Main Camera (UnityEngine.UI.LayoutElement)
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:102)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Cam 2: 5
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:101)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
 
-Main Camera (UnityEngine.UI.AspectRatioFitter)
+menu
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
-CollisionScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\CollisionScript.cs:102)
+startGameScript:Update() (at C:\Users\Alexandra\Documents\Spelprogrammering_Projekt\Assets\startGameScript.cs:13)
  
 (Filename: C Line: 0)
-
-UnloadTime: 0.894387 ms
-System memory in use before: 10.4 MB.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-System memory in use after: 10.2 MB.
-
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 141.
-Total: 0.715271 ms (FindLiveObjects: 0.005373 ms CreateObjectMapping: 0.006866 ms MarkObjects: 0.067467 ms  DeleteObjects: 0.156129 ms)
 
